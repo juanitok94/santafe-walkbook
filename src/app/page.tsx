@@ -21,13 +21,13 @@ export default function Home() {
            West Asheville, NC
         </p>
         <h1 className="font-serif text-5xl font-black text-[#f5edd8] leading-none">
-          Haywood Road
+          Santa Fe
         </h1>
         <h2 className="font-serif text-4xl italic text-[#c8973a] leading-none mt-1">
-          Ledger
+          Walkbook
         </h2>
         <p className="text-[#e8d9b8] text-sm italic mt-3 opacity-70">
-          Along Haywood Road
+          Made of mud. Filled with the world.
         </p>
         <div className="flex items-center justify-center gap-3 mt-4 text-[#c8973a] opacity-50 text-sm">
           <span>☕</span><span>✦</span><span>☕</span>
@@ -37,14 +37,9 @@ export default function Home() {
       {/* INTRO */}
       <div className="max-w-2xl mx-auto px-6 py-10">
         <p className="font-serif text-lg leading-relaxed text-[#1a1208]">
-          Haywood Road has carried people west for over a century,
-          first as the old turnpike toward Haywood County. Today it
-          holds ten coffee shops that each feel like their own place.
-        </p>
-        <p className="font-serif text-lg leading-relaxed text-[#1a1208] mt-4">
-          This passport is a way to walk it. Start on the east
-          end and keep going. After I-240 it gets quieter. That's
-          where the road opens up.
+          Canyon Road runs uphill from Paseo de Peralta to The Teahouse.
+          It is one mile. It holds more art per block than almost anywhere
+          in America. Start at the bottom. Take your time going up.
         </p>
 
         {/* CTA */}
@@ -78,7 +73,7 @@ export default function Home() {
 
         {/* East Haywood stops */}
         <p className="font-mono text-[11px] tracking-widest text-[#6b3f1e] opacity-80 uppercase mb-4 border-l-2 border-[#c8973a]/40 pl-3">
-          East Haywood
+          The Upper Road
         </p>
 
         <div className="grid grid-cols-1 md:grid-cols-2 gap-3 mb-4">
@@ -116,7 +111,7 @@ export default function Home() {
 
         {/* West Haywood stops */}
         <p className="font-mono text-[11px] tracking-widest text-[#6b3f1e] opacity-80 uppercase mb-4 border-l-2 border-[#c8973a]/40 pl-3">
-          West Haywood
+          The Lower Road
         </p>
 
         <div className="grid grid-cols-1 md:grid-cols-2 gap-3">
