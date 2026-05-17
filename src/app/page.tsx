@@ -18,7 +18,7 @@ export default function Home() {
       {/* HEADER */}
       <div className="bg-[#3b1f0a] px-6 py-10 text-center border-b-4 border-[#c8973a]">
         <p className="text-[#c8973a] text-xs tracking-[0.3em] uppercase mb-2 font-mono">
-           West Asheville, NC
+           Santa Fe, NM
         </p>
         <h1 className="font-serif text-5xl font-black text-[#f5edd8] leading-none">
           Santa Fe
@@ -71,7 +71,7 @@ export default function Home() {
           <div className="flex-1 border-t border-dashed border-[#6b3f1e] opacity-30" />
         </div>
 
-        {/* East Haywood stops */}
+        {/* Upper Road stops */}
         <p className="font-mono text-[11px] tracking-widest text-[#6b3f1e] opacity-80 uppercase mb-4 border-l-2 border-[#c8973a]/40 pl-3">
           The Upper Road
         </p>
@@ -109,7 +109,7 @@ export default function Home() {
           ))}
         </div>
 
-        {/* West Haywood stops */}
+        {/* Lower Road stops */}
         <p className="font-mono text-[11px] tracking-widest text-[#6b3f1e] opacity-80 uppercase mb-4 border-l-2 border-[#c8973a]/40 pl-3">
           The Lower Road
         </p>
@@ -148,7 +148,7 @@ export default function Home() {
         </div>
       </div>
 
-      {/* HYGGE FIVE */}
+      {/* HIDDEN COLLECTION */}
       <div className="max-w-2xl mx-auto px-6 pb-10">
         <div className="mt-6 p-6 bg-white/60 backdrop-blur-sm border border-[#6b3f1e]/30 rounded-sm
                         shadow-[0_2px_12px_rgba(59,31,10,0.10)]">
@@ -156,7 +156,7 @@ export default function Home() {
             🕯 Hidden Collection
           </p>
           <p className="font-serif text-lg font-bold text-[#3b1f0a]">
-            The Hygge Five
+            The Hidden Collection
           </p>
           <p className="font-serif italic text-sm text-[#6b3f1e] mt-1 leading-relaxed">
             Five rooms where time slows. One began in Prague
@@ -179,12 +179,12 @@ export default function Home() {
       {/* FOOTER */}
       <div className="bg-[#3b1f0a] px-6 py-8 text-center border-t-2 border-[#c8973a]">
         <p className="font-serif italic text-[#e8d9b8] text-sm opacity-70 leading-relaxed">
-          Made with love by a seven-year West Asheville resident.
+          Made with love by a longtime Canyon Road walker.
           <br />
           These aren't just coffee shops — they're the living room of the neighborhood.
         </p>
         <p className="font-mono text-[10px] text-[#c8973a] opacity-50 tracking-widest mt-4">
-          #HaywoodHoppers · #WestAVLCoffee · #AVLLocal
+          #CanyonRoadWalkbook · #SantaFeArt · #SantaFeLocal
         </p>
       </div>
 

@@ -100,7 +100,7 @@ export default function StopPage({ params }: { params: Promise<{ slug: string }>
 
         {isCore && (
           <p className="font-mono text-[10px] tracking-widest text-white/50 uppercase mt-3">
-            Stop {shop.passportStop} of 10 · {shop.zone === 'north' ? 'East' : 'West'} Haywood
+            Stop {shop.passportStop} of 10 · {shop.zone === 'north' ? 'The Upper Road' : 'The Lower Road'}
           </p>
         )}
 
@@ -376,7 +376,7 @@ export default function StopPage({ params }: { params: Promise<{ slug: string }>
             if (navigator.share) {
               navigator.share({
                 title: shop.name,
-                text: `I just stamped ${shop.name} on the Haywood Road Ledger.`,
+                text: `I just stamped ${shop.name} on the Santa Fe Walkbook.`,
                 url: window.location.href,
               })
             } else {

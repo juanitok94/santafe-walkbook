@@ -56,7 +56,7 @@ export default function PassportPage() {
           className="font-mono text-[10px] tracking-widest text-[#c8973a] opacity-60
                      hover:opacity-100 transition-opacity uppercase"
         >
-          ← Haywood Hoppers
+          ← Canyon Road Walkbook
         </Link>
         <h1 className="font-serif text-3xl font-black text-[#f5edd8] mt-3">
           Your Passport
@@ -179,13 +179,13 @@ export default function PassportPage() {
               True Local
             </p>
             <p className="font-serif italic text-sm text-[#e8d9b8] mt-2 leading-relaxed">
-              You walked all of Haywood Road. East to west.
+              You walked all of Canyon Road. Bottom to top.
               Past the roasters and the bakers and the kava bar,
               under the interstate, past the little yellow house.
               This road is yours now.
             </p>
             <p className="font-mono text-[10px] text-[#c8973a] opacity-50 mt-4 tracking-widest">
-              #HaywoodHoppers · #TrueLocal
+              #CanyonRoadWalkbook · #SantaFeLocal
             </p>
           </div>
         </div>

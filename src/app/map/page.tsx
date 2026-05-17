@@ -11,7 +11,7 @@ const shops = shopsData as any[]
 const layers = layersData as any[]
 
 // ── Geo helpers ──
-// All shops share roughly the same latitude (Haywood Rd runs east↔west).
+// All shops share roughly the same longitude (Canyon Road runs south↔north).
 // We project longitude → horizontal position on a 0-100 scale.
 const allLons = shops.map(s => s.coordinates[0])
 const minLon = Math.min(...allLons)
@@ -89,7 +89,7 @@ export default function MapPage() {
           className="font-mono text-[10px] tracking-widest text-[#c8973a] opacity-60
                      hover:opacity-100 transition-opacity uppercase"
         >
-          ← Haywood Road Ledger
+          ← Santa Fe Walkbook
         </Link>
         <h1 className="font-serif text-3xl font-black text-[#f5edd8] mt-2">
           The Map
@@ -203,13 +203,13 @@ export default function MapPage() {
                     className="absolute font-mono text-[8px] tracking-widest text-[#6b3f1e] opacity-30 uppercase transition-all duration-500"
                     style={{ top: '8px', left: `${northCenter}%`, transform: 'translateX(-50%)' }}
                   >
-                    West Haywood
+                    The Lower Road
                   </div>
                   <div
                     className="absolute font-mono text-[8px] tracking-widest text-[#6b3f1e] opacity-30 uppercase transition-all duration-500"
                     style={{ top: '8px', left: `${southCenter}%`, transform: 'translateX(-50%)' }}
                   >
-                    East Haywood
+                    The Upper Road
                   </div>
                 </>
               )
