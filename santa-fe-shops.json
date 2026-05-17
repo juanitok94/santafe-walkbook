@@ -1,0 +1,624 @@
+[
+  {
+    "id": "la-fonda-on-the-plaza",
+    "name": "La Fonda on the Plaza",
+    "address": "100 E San Francisco St",
+    "city": "Santa Fe",
+    "state": "NM",
+    "zip": "87501",
+    "coordinates": [
+      -105.984,
+      35.6869
+    ],
+    "layers": [
+      "history",
+      "restaurants"
+    ],
+    "zone": "south",
+    "rating": 4.5,
+    "reviewCount": 2800,
+    "hours": {
+      "mon": "open 24hrs",
+      "tue": "open 24hrs",
+      "wed": "open 24hrs",
+      "thu": "open 24hrs",
+      "fri": "open 24hrs",
+      "sat": "open 24hrs",
+      "sun": "open 24hrs",
+      "note": "Hotel open daily. Restaurants, rooftop bar, and shops have separate hours."
+    },
+    "passportStop": 1,
+    "passportType": "core",
+    "streetSide": "south",
+    "selloColor": "#C4922A",
+    "selloPersonality": "Plaza hotel seal, adobe and vigas, Santa Fe grand dame",
+    "hygge": false,
+    "stamp": {
+      "welcomeLine": "La Fonda. The inn at the end of the trail.",
+      "subLine": "Santa Fe was founded in 1610. There has been a fonda on this corner since then."
+    },
+    "story": {
+      "headline": "The inn at the end of the Santa Fe Trail.",
+      "body": "La Fonda has stood at the corner of the Plaza since 1922, on a site that has housed an inn since Santa Fe was founded in 1610. Every governor, president, and cattle baron who passed through stopped here. The lobby art collection is world-class and free to walk through. The rooftop bar has the best view of the Sangre de Cristo Mountains in the city.",
+      "insiderTip": "Locals walk through the lobby without staying — the folk art collection on the walls is museum quality and nobody checks your room key. The rooftop bar at 4pm on a weekday is half the crowd of a weekend. Go then.",
+      "parkingNote": "Plaza parking garage on Water St. Short walk. Street metering throughout downtown."
+    },
+    "offer": {
+      "active": false,
+      "type": "verbal",
+      "text": "",
+      "reward": ""
+    },
+    "nearbyPassportStops": [
+      "shiprock-santa-fe",
+      "longworth-gallery"
+    ],
+    "multiLayer": false,
+    "instagram": "lafondasantafe",
+    "website": "https://www.lafondasantafe.com/",
+    "placeId": null,
+    "status": "confirmed-open",
+    "lastVerified": "2026-05-16"
+  },
+  {
+    "id": "shiprock-santa-fe",
+    "name": "Shiprock Santa Fe",
+    "address": "53 Old Santa Fe Trl",
+    "city": "Santa Fe",
+    "state": "NM",
+    "zip": "87501",
+    "coordinates": [
+      -105.9822,
+      35.6866
+    ],
+    "layers": [
+      "galleries",
+      "shops"
+    ],
+    "zone": "south",
+    "rating": 4.7,
+    "reviewCount": 180,
+    "hours": {
+      "mon": "10AM–5PM",
+      "tue": "10AM–5PM",
+      "wed": "10AM–5PM",
+      "thu": "10AM–5PM",
+      "fri": "10AM–5PM",
+      "sat": "10AM–5PM",
+      "sun": "closed",
+      "note": "Verify current gallery hours before visiting."
+    },
+    "passportStop": 2,
+    "passportType": "core",
+    "streetSide": "east",
+    "selloColor": "#A0522D",
+    "selloPersonality": "Pueblo textile and jewelry mark, Southwest material culture",
+    "hygge": false,
+    "stamp": {
+      "welcomeLine": "You found Shiprock ✦",
+      "subLine": "The Plaza connector. Where the walk shifts from history to art."
+    },
+    "story": {
+      "headline": "The bridge between the Plaza and Canyon Road.",
+      "body": "Shiprock Santa Fe sits at the hinge point between the Plaza and Canyon Road — a gallery of extraordinary Native American jewelry, textiles, and pottery that signals you're about to enter one of the most concentrated art districts in America. The work here is serious, curated, and expensive in the way that means it will last.",
+      "insiderTip": "Canyon Road regulars stop here before the climb, not after. The staff knows the makers personally. Even if you're not buying, say you're interested in provenance — you'll get a real conversation, not a pitch.",
+      "parkingNote": "Old Santa Fe Trail has street parking. Plaza garage nearby."
+    },
+    "offer": {
+      "active": false,
+      "type": "verbal",
+      "text": "",
+      "reward": ""
+    },
+    "nearbyPassportStops": [
+      "la-fonda-on-the-plaza",
+      "longworth-gallery"
+    ],
+    "multiLayer": true,
+    "instagram": "shiprocksantafe",
+    "website": "https://shiprocksantafe.com/",
+    "placeId": null,
+    "status": "confirmed-open",
+    "lastVerified": "2026-05-16"
+  },
+  {
+    "id": "longworth-gallery",
+    "name": "The Longworth Gallery",
+    "address": "530 Canyon Rd",
+    "city": "Santa Fe",
+    "state": "NM",
+    "zip": "87501",
+    "coordinates": [
+      -105.9753,
+      35.6836
+    ],
+    "layers": [
+      "galleries"
+    ],
+    "zone": "south",
+    "rating": 4.8,
+    "reviewCount": 95,
+    "hours": {
+      "mon": "10AM–5PM",
+      "tue": "10AM–5PM",
+      "wed": "10AM–5PM",
+      "thu": "10AM–5PM",
+      "fri": "10AM–5PM",
+      "sat": "10AM–5PM",
+      "sun": "10AM–5PM",
+      "note": "No interior photography. Respect this policy."
+    },
+    "passportStop": 3,
+    "passportType": "core",
+    "streetSide": "north",
+    "selloColor": "#2C1810",
+    "selloPersonality": "Metaphorical realism seal, Kush-style surrealist mark",
+    "hygge": false,
+    "stamp": {
+      "welcomeLine": "Longworth Gallery. No photos. That's the rule.",
+      "subLine": "Vladimir Kush. Metaphorical realism. Stand in front of it — that's the whole point."
+    },
+    "story": {
+      "headline": "Vladimir Kush. Metaphorical realism. No photos allowed.",
+      "body": "The Longworth Gallery is one of the few Canyon Road stops that is completely specific — it shows Vladimir Kush and a curated selection of metaphorical realist work that has no equivalent on the street. The no-photography policy is not pretension; it is respect for work that doesn't reproduce well anyway. Stand in front of it. That's the point.",
+      "insiderTip": "The no-photo policy keeps the casual foot traffic moving. Locals use it as the quiet stop — go in, stand in front of the Kush originals, don't explain yourself. Nobody will rush you.",
+      "parkingNote": "Canyon Road has limited street parking. Come on foot from the Plaza if possible."
+    },
+    "offer": {
+      "active": false,
+      "type": "verbal",
+      "text": "",
+      "reward": ""
+    },
+    "nearbyPassportStops": [
+      "shiprock-santa-fe",
+      "ventana-fine-art"
+    ],
+    "multiLayer": false,
+    "instagram": "thelongworthgallery",
+    "website": "https://www.thelongworthgallery.com/",
+    "placeId": null,
+    "status": "confirmed-open",
+    "lastVerified": "2026-05-16"
+  },
+  {
+    "id": "ventana-fine-art",
+    "name": "Ventana Fine Art",
+    "address": "400 Canyon Rd",
+    "city": "Santa Fe",
+    "state": "NM",
+    "zip": "87501",
+    "coordinates": [
+      -105.9762,
+      35.684
+    ],
+    "layers": [
+      "galleries"
+    ],
+    "zone": "south",
+    "rating": 4.6,
+    "reviewCount": 110,
+    "hours": {
+      "mon": "10AM–5PM",
+      "tue": "10AM–5PM",
+      "wed": "10AM–5PM",
+      "thu": "10AM–5PM",
+      "fri": "10AM–5PM",
+      "sat": "10AM–5PM",
+      "sun": "11AM–5PM",
+      "note": "Verify current gallery hours before visiting."
+    },
+    "passportStop": 4,
+    "passportType": "core",
+    "streetSide": "south",
+    "selloColor": "#C4922A",
+    "selloPersonality": "Canyon Road compound mark, adobe courtyard and open sky",
+    "hygge": false,
+    "stamp": {
+      "welcomeLine": "You found Ventana 🌵",
+      "subLine": "The compound opens up. Adobe walls, open sky, contemporary work."
+    },
+    "story": {
+      "headline": "A Canyon Road compound with room to breathe.",
+      "body": "Ventana is what Canyon Road architecture does best — a gallery that uses the compound format to give contemporary work space it needs. The courtyard slows you down. The sculpture garden makes the uphill climb feel worth stopping for. The work inside spans established and emerging artists with a consistent eye.",
+      "insiderTip": "The courtyard is the move on a hot afternoon — shaded, quiet, and the sculpture is part of the show. Canyon Road galleries don't require purchase intent. Walk in like you own the place.",
+      "parkingNote": "Limited street parking on Canyon Rd. Early morning has the best availability."
+    },
+    "offer": {
+      "active": false,
+      "type": "verbal",
+      "text": "",
+      "reward": ""
+    },
+    "nearbyPassportStops": [
+      "longworth-gallery",
+      "smoke-the-moon"
+    ],
+    "multiLayer": false,
+    "instagram": "ventanafineart",
+    "website": "https://ventanafineart.com/",
+    "placeId": null,
+    "status": "confirmed-open",
+    "lastVerified": "2026-05-16"
+  },
+  {
+    "id": "canyon-road-contemporary-art",
+    "name": "Canyon Road Contemporary Art",
+    "address": "622 Canyon Rd",
+    "city": "Santa Fe",
+    "state": "NM",
+    "zip": "87501",
+    "coordinates": [
+      -105.974,
+      35.6833
+    ],
+    "layers": [
+      "galleries"
+    ],
+    "zone": "south",
+    "rating": 4.5,
+    "reviewCount": 75,
+    "hours": {
+      "mon": "10AM–5PM",
+      "tue": "10AM–5PM",
+      "wed": "10AM–5PM",
+      "thu": "10AM–5PM",
+      "fri": "10AM–5PM",
+      "sat": "10AM–5PM",
+      "sun": "11AM–5PM",
+      "note": "Verify current gallery hours before visiting."
+    },
+    "passportStop": 5,
+    "passportType": "core",
+    "streetSide": "north",
+    "selloColor": "#A0522D",
+    "selloPersonality": "Contemporary gallery mark, clean line against adobe",
+    "hygge": false,
+    "stamp": {
+      "welcomeLine": "You found Canyon Contemporary 🎨",
+      "subLine": "Contemporary work against ancient walls. The contrast is the point."
+    },
+    "story": {
+      "headline": "Where Canyon Road stops looking at its own history.",
+      "body": "Canyon Road Contemporary Art shows work that doesn't apologize for being made now. The adobe walls and the contemporary paintings are in deliberate tension — the gallery knows exactly what it's doing by putting them together. It's one of the cleaner spaces on the road and one of the less expected.",
+      "insiderTip": "The sculpture out front is part of the show and most people walk past it to get to the door. Locals stop there first. It's also the spot where the afternoon light hits Canyon Road best — around 3pm facing west.",
+      "parkingNote": "Street parking on Canyon Rd."
+    },
+    "offer": {
+      "active": false,
+      "type": "verbal",
+      "text": "",
+      "reward": ""
+    },
+    "nearbyPassportStops": [
+      "smoke-the-moon",
+      "ventana-fine-art"
+    ],
+    "multiLayer": false,
+    "instagram": "canyonroadcontemporary",
+    "website": "https://canyoncontemporary.com/",
+    "placeId": null,
+    "status": "confirmed-open",
+    "lastVerified": "2026-05-16"
+  },
+  {
+    "id": "smoke-the-moon",
+    "name": "Smoke the Moon",
+    "address": "616½ Canyon Rd",
+    "city": "Santa Fe",
+    "state": "NM",
+    "zip": "87501",
+    "coordinates": [
+      -105.9741,
+      35.6832
+    ],
+    "layers": [
+      "galleries"
+    ],
+    "zone": "north",
+    "rating": 4.9,
+    "reviewCount": 60,
+    "hours": {
+      "mon": "10AM–5PM",
+      "tue": "10AM–5PM",
+      "wed": "10AM–5PM",
+      "thu": "10AM–5PM",
+      "fri": "10AM–5PM",
+      "sat": "10AM–5PM",
+      "sun": "closed",
+      "note": "Verify current gallery hours before visiting."
+    },
+    "passportStop": 6,
+    "passportType": "core",
+    "streetSide": "south",
+    "selloColor": "#1A1208",
+    "selloPersonality": "Emerging gallery mark, intimate courtyard, hand-lettered",
+    "hygge": true,
+    "hyggeFactor": {
+      "linger": true,
+      "naturalLight": true,
+      "ownerPresent": true,
+      "outdoorConnection": true,
+      "hiddenArrival": true
+    },
+    "stamp": {
+      "welcomeLine": "Smoke the Moon. 616½. You found it.",
+      "subLine": "Tucked in a compound off the road. Emerging artists. The work is still being argued over."
+    },
+    "story": {
+      "headline": "John's favorite Canyon Road gallery. Emerging artists. Room still being made.",
+      "body": "Smoke the Moon is the stop that keeps Canyon Road alive rather than frozen. It shows emerging artists with genuine curatorial conviction — not the established names that fill the bigger galleries, but work that's still being argued over, still in process, still exciting. The address is a half-number because it's tucked in a compound that rewards finding.",
+      "insiderTip": "The compound entrance is between the two neighboring galleries — easy to miss if you're moving fast. Locals slow down at 616. The owner is usually there on weekday mornings. That's the time to go if you want a real conversation about what's on the walls.",
+      "parkingNote": "Street parking on Canyon Rd. The compound entrance is easy to miss — slow down."
+    },
+    "offer": {
+      "active": false,
+      "type": "verbal",
+      "text": "",
+      "reward": ""
+    },
+    "nearbyPassportStops": [
+      "canyon-road-contemporary-art",
+      "turner-carroll-gallery"
+    ],
+    "multiLayer": false,
+    "instagram": "smokethemoon",
+    "website": "https://smokethemoon.com/",
+    "placeId": null,
+    "status": "confirmed-open",
+    "lastVerified": "2026-05-16"
+  },
+  {
+    "id": "turner-carroll-gallery",
+    "name": "Turner Carroll Gallery",
+    "address": "725 Canyon Rd",
+    "city": "Santa Fe",
+    "state": "NM",
+    "zip": "87501",
+    "coordinates": [
+      -105.9728,
+      35.6828
+    ],
+    "layers": [
+      "galleries"
+    ],
+    "zone": "north",
+    "rating": 4.7,
+    "reviewCount": 130,
+    "hours": {
+      "mon": "10AM–5PM",
+      "tue": "10AM–5PM",
+      "wed": "10AM–5PM",
+      "thu": "10AM–5PM",
+      "fri": "10AM–5PM",
+      "sat": "10AM–5PM",
+      "sun": "11AM–5PM",
+      "note": "Verify current gallery hours before visiting."
+    },
+    "passportStop": 7,
+    "passportType": "core",
+    "streetSide": "north",
+    "selloColor": "#C4922A",
+    "selloPersonality": "Established Canyon Road gallery seal, clean contemporary line",
+    "hygge": false,
+    "stamp": {
+      "welcomeLine": "You found Turner Carroll 🖼",
+      "subLine": "One of Canyon Road's most respected rooms. Take your time."
+    },
+    "story": {
+      "headline": "One of Canyon Road's most respected galleries.",
+      "body": "Turner Carroll has been a fixture on Canyon Road long enough to have earned the kind of reputation that doesn't need explaining. The space is clean and serious. The artists are established without being obvious. It's the kind of gallery where you can stand in front of a single painting for ten minutes and nobody will rush you.",
+      "insiderTip": "The back garden changes with every show and most visitors never make it there. Walk all the way through. The garden is where the sculpture pieces that don't fit inside end up — often the most interesting work in the building.",
+      "parkingNote": "Street parking on Canyon Rd."
+    },
+    "offer": {
+      "active": false,
+      "type": "verbal",
+      "text": "",
+      "reward": ""
+    },
+    "nearbyPassportStops": [
+      "smoke-the-moon",
+      "el-farol"
+    ],
+    "multiLayer": false,
+    "instagram": "turnercarroll",
+    "website": "https://www.turnercarrollgallery.com/",
+    "placeId": null,
+    "status": "confirmed-open",
+    "lastVerified": "2026-05-16"
+  },
+  {
+    "id": "el-farol",
+    "name": "El Farol",
+    "address": "808 Canyon Rd",
+    "city": "Santa Fe",
+    "state": "NM",
+    "zip": "87501",
+    "coordinates": [
+      -105.9715,
+      35.6823
+    ],
+    "layers": [
+      "restaurants",
+      "bars"
+    ],
+    "zone": "north",
+    "rating": 4.4,
+    "reviewCount": 890,
+    "hours": {
+      "mon": "4PM–9PM",
+      "tue": "4PM–9PM",
+      "wed": "4PM–9PM",
+      "thu": "4PM–9PM",
+      "fri": "4PM–10PM",
+      "sat": "4PM–10PM",
+      "sun": "4PM–9PM",
+      "note": "Live music most evenings. Verify current schedule before visiting."
+    },
+    "passportStop": 8,
+    "passportType": "core",
+    "streetSide": "south",
+    "selloColor": "#A0522D",
+    "selloPersonality": "Canyon Road cantina mark, adobe walls and live music",
+    "hygge": true,
+    "hyggeFactor": {
+      "linger": true,
+      "naturalLight": false,
+      "ownerPresent": false,
+      "outdoorConnection": true,
+      "hiddenArrival": false
+    },
+    "stamp": {
+      "welcomeLine": "You found El Farol 🎸",
+      "subLine": "Canyon Road after gallery hours. Live music, tapas, adobe walls."
+    },
+    "story": {
+      "headline": "Canyon Road after the galleries close.",
+      "body": "El Farol has been the evening anchor of Canyon Road since 1835, when it was a trading post. Now it's a Spanish tapas restaurant and live music venue in one of the oldest buildings on the road. The adobe walls are genuine. The flamenco and jazz nights fill the room. The food is the most satisfying meal at the uphill end of the walk.",
+      "insiderTip": "The flamenco nights sell out. Locals book a week ahead, not the day of. The tapas menu is designed for sharing after a long afternoon on Canyon Road — order the patatas bravas and the chorizo and don't look at the entrées.",
+      "parkingNote": "Street parking on Canyon Rd gets very limited in evenings. Walk from the lower end."
+    },
+    "offer": {
+      "active": false,
+      "type": "verbal",
+      "text": "",
+      "reward": ""
+    },
+    "nearbyPassportStops": [
+      "turner-carroll-gallery",
+      "the-teahouse"
+    ],
+    "multiLayer": true,
+    "instagram": "elfarolsantafe",
+    "website": "https://www.elfarolsf.com/",
+    "placeId": null,
+    "status": "confirmed-open",
+    "lastVerified": "2026-05-16"
+  },
+  {
+    "id": "the-teahouse",
+    "name": "The Teahouse",
+    "address": "821 Canyon Rd",
+    "city": "Santa Fe",
+    "state": "NM",
+    "zip": "87501",
+    "coordinates": [
+      -105.9713,
+      35.6822
+    ],
+    "layers": [
+      "restaurants",
+      "coffee"
+    ],
+    "zone": "north",
+    "rating": 4.6,
+    "reviewCount": 650,
+    "hours": {
+      "mon": "9AM–9PM",
+      "tue": "9AM–9PM",
+      "wed": "9AM–9PM",
+      "thu": "9AM–9PM",
+      "fri": "9AM–9PM",
+      "sat": "9AM–9PM",
+      "sun": "9AM–9PM",
+      "note": "Daily 9–9. The uphill endpoint of the walk."
+    },
+    "passportStop": 9,
+    "passportType": "core",
+    "streetSide": "north",
+    "selloColor": "#C4922A",
+    "selloPersonality": "Teahouse at the top of the road, patio and shade mark",
+    "hygge": true,
+    "hyggeFactor": {
+      "linger": true,
+      "naturalLight": true,
+      "ownerPresent": false,
+      "outdoorConnection": true,
+      "hiddenArrival": false
+    },
+    "stamp": {
+      "welcomeLine": "The Teahouse. Top of the road. You made it.",
+      "subLine": "150 teas. A patio under the trees. The walk ends here — sit down."
+    },
+    "story": {
+      "headline": "The top of the road. Rest here.",
+      "body": "The Teahouse sits at 821 Canyon Road — near the top of the uphill walk, in a garden that feels earned. The tea list is serious: 150+ varieties, sourced globally, served properly. The food is light and good. The patio under the trees is exactly what you need after walking a mile of galleries in the New Mexico sun. This is where the walk ends.",
+      "insiderTip": "The patio fills from the tourist end first — the tables nearest the door. Locals go to the back of the garden, away from the street. Order a pot, not a cup. The Darjeeling. Sit until the afternoon cools down.",
+      "parkingNote": "At the upper end of Canyon Rd. Street parking very limited. Best to walk the whole road from the Plaza."
+    },
+    "offer": {
+      "active": false,
+      "type": "verbal",
+      "text": "",
+      "reward": ""
+    },
+    "nearbyPassportStops": [
+      "el-farol"
+    ],
+    "multiLayer": true,
+    "instagram": "teahousesantafe",
+    "website": "https://teahousesantafe.com/",
+    "placeId": null,
+    "status": "confirmed-open",
+    "lastVerified": "2026-05-16"
+  },
+  {
+    "id": "meow-wolf-santa-fe",
+    "name": "Meow Wolf Santa Fe",
+    "address": "1352 Rufina Cir",
+    "city": "Santa Fe",
+    "state": "NM",
+    "zip": "87507",
+    "coordinates": [
+      -105.995,
+      35.6603
+    ],
+    "layers": [
+      "attractions",
+      "arts"
+    ],
+    "zone": "north",
+    "rating": 4.6,
+    "reviewCount": 12000,
+    "hours": {
+      "mon": "10AM–8PM",
+      "tue": "10AM–8PM",
+      "wed": "10AM–8PM",
+      "thu": "10AM–8PM",
+      "fri": "10AM–10PM",
+      "sat": "10AM–10PM",
+      "sun": "10AM–8PM",
+      "note": "Ticketed. Verify current hours and prices before visiting."
+    },
+    "passportStop": null,
+    "passportType": "bonus",
+    "streetSide": "south",
+    "selloColor": "#A0522D",
+    "selloPersonality": "Meow Wolf House of Eternal Return — deliberately weird, immersive",
+    "hygge": false,
+    "stamp": {
+      "welcomeLine": "You found Meow Wolf 🌀",
+      "subLine": "Off-route. Off-canon. Go anyway."
+    },
+    "story": {
+      "headline": "Santa Fe's other art story. Immersive, collaborative, and not quiet.",
+      "body": "Meow Wolf is the deliberate rupture in this guide. It is not Canyon Road, not gallery culture, not old Santa Fe. It is an immersive art environment born from a Santa Fe artist collective that decided to build a house where every room is a different world. The House of Eternal Return opened in 2016. It is one of the most visited art installations in American history. It belongs in this guide because Santa Fe's art story doesn't end at The Teahouse.",
+      "insiderTip": "Buy tickets online — walk-up on weekends is genuinely limited and the line will eat your afternoon. Locals go on Tuesday or Wednesday evenings when the crowd is thin and the staff has time to point you toward the less-obvious rooms.",
+      "parkingNote": "Off-spine — not walkable from Canyon Road. Drive or rideshare to 1352 Rufina Cir."
+    },
+    "offer": {
+      "active": false,
+      "type": "verbal",
+      "text": "",
+      "reward": ""
+    },
+    "nearbyPassportStops": [],
+    "multiLayer": false,
+    "instagram": "meow__wolf",
+    "website": "https://meowwolf.com/visit/santa-fe",
+    "placeId": null,
+    "status": "confirmed-open",
+    "lastVerified": "2026-05-16"
+  }
+]

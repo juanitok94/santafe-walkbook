@@ -1,0 +1,43 @@
+[
+  {
+    "id": "curious",
+    "label": "Curious About Canyon Road",
+    "threshold": 3,
+    "type": "core",
+    "icon": "🎨",
+    "color": "#C4922A",
+    "description": "You've started walking the road.",
+    "compostela": false
+  },
+  {
+    "id": "regular",
+    "label": "Gallery Walker",
+    "threshold": 6,
+    "type": "core",
+    "icon": "✦",
+    "color": "#A0522D",
+    "description": "Six in. You know the uphill rhythm now.",
+    "compostela": false
+  },
+  {
+    "id": "local",
+    "label": "True Santa Fean",
+    "threshold": 9,
+    "type": "core",
+    "icon": "⭐",
+    "color": "#C4922A",
+    "description": "You walked all of Canyon Road. This is yours.",
+    "compostela": true
+  },
+  {
+    "id": "weird",
+    "label": "You Went to Meow Wolf",
+    "threshold": 1,
+    "type": "bonus",
+    "icon": "🌀",
+    "color": "#1A1208",
+    "description": "Off-route. Off-canon. Good call.",
+    "compostela": false,
+    "note": "Unlocked by stamping the Meow Wolf bonus stop"
+  }
+]

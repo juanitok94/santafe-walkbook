@@ -1,16 +1,16 @@
-# Haywood Hoppers
+# Santa Fe Walkbook
 
-A digital coffee passport for Haywood Road — West Asheville's main street.
+A digital art passport for Canyon Road — Santa Fe's most concentrated mile of art.
 
-Ten coffee shops. One road. Walk it.
+Ten stops. One road. Walk it.
 
 ## What this is
 
 A warmly narrated neighborhood guide and passport game built on the
 Camino de Santiago pilgrim passport model. Collect stamps at each of
-the 10 core coffee stops on Haywood Road. Earn your True Local badge.
+the 10 core stops on Canyon Road. Earn your True Local badge.
 
-Built with love by a seven-year West Asheville resident.
+Made with love by a longtime Canyon Road walker.
 
 ## Stack
 
@@ -22,8 +22,8 @@ Built with love by a seven-year West Asheville resident.
 
 ## Run locally
 
-git clone https://github.com/[yourusername]/wavl-guide.git
-cd wavl-guide
+git clone https://github.com/juanitok94/santafe-walkbook.git
+cd santafe-walkbook
 npm install
 npm run dev
 
@@ -32,7 +32,7 @@ Open http://localhost:3000
 ## Data
 
 All business data lives in /src/data/
-- shops.json — 49 stops, 9 layers, full data model
+- shops.json — Canyon Road stops, full data model
 - layers.json — layer definitions
 - badges.json — badge tiers
 - trivia.json — per-stop trivia
@@ -47,4 +47,4 @@ Community corrections welcome via PR to the JSON files.
 
 ## Hashtags
 
-#HaywoodHoppers #WestAVLCoffee #AVLLocal
+#CanyonRoadWalkbook #SantaFeArt #SantaFeLocal

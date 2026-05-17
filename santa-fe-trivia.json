@@ -1,0 +1,72 @@
+[
+  {
+    "id": "la-fonda-history",
+    "stopId": "la-fonda-on-the-plaza",
+    "question": "La Fonda has stood at the corner of the Plaza since 1922. But how long has there been an inn on this site?",
+    "answer": "Since 1610 — when Santa Fe was founded. The site has housed a fonda (inn) for over 400 years, making it one of the oldest inn locations in North America.",
+    "category": "history"
+  },
+  {
+    "id": "shiprock-meaning",
+    "stopId": "shiprock-santa-fe",
+    "question": "Shiprock Santa Fe is named after a geological formation in New Mexico. What is Shiprock?",
+    "answer": "A volcanic rock formation in the Navajo Nation in northwestern New Mexico — a 1,583-foot monolith sacred to the Navajo people. The gallery takes its name from it as a marker of place and cultural rootedness.",
+    "category": "geography"
+  },
+  {
+    "id": "longworth-kush",
+    "stopId": "longworth-gallery",
+    "question": "The Longworth Gallery shows Vladimir Kush, who is associated with 'Metaphorical Realism.' What does that mean?",
+    "answer": "A style of painting that uses realistic technique to depict impossible or symbolic imagery — dreamlike scenes rendered with photographic precision. Kush is sometimes called the 'Successor to Salvador Dalí.'",
+    "category": "art"
+  },
+  {
+    "id": "ventana-compound",
+    "stopId": "ventana-fine-art",
+    "question": "Many Canyon Road galleries are built in the 'compound' style. What is a compound in Santa Fe architecture?",
+    "answer": "A cluster of adobe buildings arranged around a central courtyard, often originally a family compound or hacienda. Many Canyon Road galleries are converted historic compounds — the walls you're walking between may be hundreds of years old.",
+    "category": "architecture"
+  },
+  {
+    "id": "canyon-road-length",
+    "stopId": "canyon-road-contemporary-art",
+    "question": "How many galleries are on Canyon Road?",
+    "answer": "Over 100 galleries and studios are concentrated in approximately one mile of Canyon Road — one of the highest densities of art per block in the United States.",
+    "category": "art"
+  },
+  {
+    "id": "smoke-moon-address",
+    "stopId": "smoke-the-moon",
+    "question": "Smoke the Moon's address is 616½ Canyon Rd. Why does a building have a half-number address?",
+    "answer": "Half-number addresses indicate a building set back from the street, typically inside a compound or courtyard. On Canyon Road, many galleries with half-number addresses are the most intimate and easy to miss — which often makes them the most rewarding to find.",
+    "category": "local"
+  },
+  {
+    "id": "turner-carroll-age",
+    "stopId": "turner-carroll-gallery",
+    "question": "How old is Canyon Road as an art destination?",
+    "answer": "Canyon Road was originally a Pueblo trading path and later a farm road. It became an artists' colony in the 1920s when artists began buying and converting the old adobe homes. The gallery district as we know it developed through the mid-20th century.",
+    "category": "history"
+  },
+  {
+    "id": "el-farol-age",
+    "stopId": "el-farol",
+    "question": "El Farol dates to 1835. What was it originally?",
+    "answer": "A trading post and cantina serving the Canyon Road farming community. The name means 'the lantern' in Spanish — it was a gathering place and light source at the edge of the settled town.",
+    "category": "history"
+  },
+  {
+    "id": "teahouse-varieties",
+    "stopId": "the-teahouse",
+    "question": "The Teahouse serves over 150 varieties of tea. What are the four main categories of tea?",
+    "answer": "White, green, oolong, and black — all from the same plant, Camellia sinensis. The difference is oxidation: white is least processed, black is most. Herbal teas are technically tisanes, not true teas.",
+    "category": "food"
+  },
+  {
+    "id": "meow-wolf-founding",
+    "stopId": "meow-wolf-santa-fe",
+    "question": "When did Meow Wolf open the House of Eternal Return, and how was it funded?",
+    "answer": "It opened in 2016, funded in part by a $3 million investment from George R.R. Martin, who also helped the collective secure the former bowling alley building. It is now one of the most visited art installations in the United States.",
+    "category": "art"
+  }
+]

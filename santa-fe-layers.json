@@ -1,0 +1,75 @@
+// santa-fe-layers.json
+[
+  {
+    "id": "galleries",
+    "label": "Galleries",
+    "color": "#C4922A",
+    "bg": "#F5ECD7",
+    "icon": "🎨",
+    "passportLayer": true,
+    "description": "The 9 core Canyon Road gallery and art stops"
+  },
+  {
+    "id": "restaurants",
+    "label": "Restaurants",
+    "color": "#A0522D",
+    "bg": "#FAE8DC",
+    "icon": "🍽",
+    "passportLayer": false,
+    "description": "Restaurants and cafes on and near Canyon Road"
+  },
+  {
+    "id": "bars",
+    "label": "Bars",
+    "color": "#2C1810",
+    "bg": "#EDE8E4",
+    "icon": "🍷",
+    "passportLayer": false,
+    "description": "Wine bars and evening stops"
+  },
+  {
+    "id": "coffee",
+    "label": "Coffee & Tea",
+    "color": "#8B5E3A",
+    "bg": "#F5EDD8",
+    "icon": "☕",
+    "passportLayer": false,
+    "description": "Coffee and tea stops along the walk"
+  },
+  {
+    "id": "shops",
+    "label": "Shops",
+    "color": "#A0522D",
+    "bg": "#FAE8DC",
+    "icon": "🛍",
+    "passportLayer": false,
+    "description": "Independent shops and boutiques"
+  },
+  {
+    "id": "history",
+    "label": "History",
+    "color": "#2C1810",
+    "bg": "#EDE8E4",
+    "icon": "🏛",
+    "passportLayer": false,
+    "description": "Historic sites and cultural landmarks"
+  },
+  {
+    "id": "attractions",
+    "label": "Attractions",
+    "color": "#C4922A",
+    "bg": "#F5ECD7",
+    "icon": "⭐",
+    "passportLayer": false,
+    "description": "Must-see stops including Meow Wolf"
+  },
+  {
+    "id": "arts",
+    "label": "Arts",
+    "color": "#A0522D",
+    "bg": "#FAE8DC",
+    "icon": "✦",
+    "passportLayer": false,
+    "description": "Art institutions and immersive experiences"
+  }
+]
